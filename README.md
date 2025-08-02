@@ -1,15 +1,15 @@
-## Hi there 👋
 
-# 👋 Hey there! I'm Varu Anand
+
+# 👋 Hello I'm Varu Anand
 
 🚀 I'm an **Embedded Systems Enthusiast**  
 ⚡ Passionate about building real-time systems with STM32, Arduino, FreeRTOS and more.
 
 ## 🛠️ Tech Stack
-- **Languages**: C, Embedded C, Python
+- **Languages**: C, Embedded C,
 - **Microcontrollers**: STM32, Arduino, ATmega
-- **Tools**: STM32CubeIDE, Keil uVision, Proteus, Git, GitHub
-- **OS**: FreeRTOS, Linux (Basic)
+- **Tools**: STM32CubeIDE, Keil uVision, Proteus, Git, GitHub, VSCode
+- **OS**: FreeRTOS, 
 
 ## 🔥 Projects
 - 🗳️ [Arduino-based Voting Machine](https://github.com/varuanand2/Arduino-based-voting-machine)
